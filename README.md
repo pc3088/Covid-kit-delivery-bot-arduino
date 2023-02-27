@@ -1,4 +1,4 @@
-# Covid-kit-delivery-bot-arduino
+# Covid kit delivery bot-Arduino
 
 Please refer to my [Portfolio for this project](https://spiffy-number-442.notion.site/Covid-delivery-bot-Arduino-1f5f0df0d6504c41b55f97f7095cccd0) to get a brief understanding of this specific project. 
 
